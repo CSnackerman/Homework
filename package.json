@@ -1,10 +1,13 @@
 {
-  "name": "savvy-starter",
+  "name": "colby-ackerman-savvy-coders-homework",
+  "type": "module",
   "version": "1.0.0",
-  "description": "",
-  "scripts": {},
+  "description": "All the homework for Colby Ackerman @ SavvyCoders",
+  "scripts": {
+    "wk2": "node Week2/homework.wk2.js"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Colby Ackerman extends SavvyCoders",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.4.1",
